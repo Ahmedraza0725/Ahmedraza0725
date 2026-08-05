@@ -11,3 +11,14 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Ahmedraza0725/Ahmedraza0725/output/github-snake.svg" />
   </picture>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-raza-82a7ab320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the_ahmed_raza/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:muhammadahmedraza12346@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+</div>
