@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Ahmed Raza</h1>
-  <h3>Cybersecurity Student & Ethical Hacker 🛡️</h3>
+  <h3>Cybersecurity Student🛡️</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ahmedraza0725&style=flat-square&color=0891B2" alt="Profile Views" />
   </p>
