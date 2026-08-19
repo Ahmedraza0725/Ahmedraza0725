@@ -1,0 +1,36 @@
+name: Daily Activity Update
+
+on:
+  schedule:
+    # Runs every day at 09:00 UTC — change to suit your timezone
+    - cron: '0 9 * * *'
+  workflow_dispatch:  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Update activity file
+        run: |
+          mkdir -p activity
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > activity/last-update.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity/last-update.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily activity update"
+            git push
+          fi
