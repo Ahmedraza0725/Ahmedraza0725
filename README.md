@@ -4,15 +4,12 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=Ahmedraza0725&style=flat-square&color=0891B2" alt="Profile Views" />
   </p>
-</div>
-<br>
 <div align="center">
   <a href="https://github.com/Ahmedraza0725">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=22D3EE&vCenter=true&width=435&lines=SYSTEM_COMPROMISED;INITIATING_ROOT_ACCESS;RUNNING_MALWARE_CLASSIFIER...;TARGET_ACQUIRED%3A_AHMEDRAZA0725" alt="Cyber Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=22D3EE&vCenter=true&width=550&lines=Cyber+Security+Student+🔒;Specialized+in+Offensive+Security+and+Ethical+Hacking;Python+Developer+and+Security+Tool+Creator;Building+Malware+Classifiers+and+OSINT+Engines" alt="Cyber Profile" />
   </a>
   <br /><br />
 </div>
-<br/>
 <br/>
   <br/>
   <img width="49%" src="https://github-readme-stats-xba5.vercel.app/api?username=Ahmedraza0725&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
