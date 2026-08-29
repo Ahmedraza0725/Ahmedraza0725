@@ -6,11 +6,11 @@
   </p>
 </div>
 <br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-KALI%20LINUX-22D3EE?style=for-the-badge&logo=kali-linux&logoColor=22D3EE&color=0A101F" alt="OS" />
-  <img src="https://img.shields.io/badge/FIELD-OFFENSIVE%20SECURITY-10B981?style=for-the-badge&logo=letsencrypt&logoColor=10B981&color=0A101F" alt="Field" />
-  <img src="https://img.shields.io/badge/STATUS-SECURE%20%2F%20ACTIVE-A78BFA?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&color=0A101F" alt="Status" />
+  <a href="https://github.com/Ahmedraza0725">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=22D3EE&vCenter=true&width=435&lines=SYSTEM_COMPROMISED;INITIATING_ROOT_ACCESS;RUNNING_MALWARE_CLASSIFIER...;TARGET_ACQUIRED%3A_AHMEDRAZA0725" alt="Cyber Terminal" />
+  </a>
+  <br /><br />
 </div>
 <br/>
 <br/>
