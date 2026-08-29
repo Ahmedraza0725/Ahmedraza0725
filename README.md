@@ -8,7 +8,9 @@
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedraza0725&theme=react-dark&hide_border=true&bg_color=0A101F&color=22D3EE&line=A78BFA&point=10B981&area=true" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/SYSTEM-KALI%20LINUX-22D3EE?style=for-the-badge&logo=kali-linux&logoColor=22D3EE&color=0A101F" alt="OS" />
+  <img src="https://img.shields.io/badge/FIELD-OFFENSIVE%20SECURITY-10B981?style=for-the-badge&logo=letsencrypt&logoColor=10B981&color=0A101F" alt="Field" />
+  <img src="https://img.shields.io/badge/STATUS-SECURE%20%2F%20ACTIVE-A78BFA?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&color=0A101F" alt="Status" />
 </div>
 <br/>
 <br/>
