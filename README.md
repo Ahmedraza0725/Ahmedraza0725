@@ -8,7 +8,7 @@
   <a href="https://github.com/Ahmedraza0725">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=22D3EE&vCenter=true&width=550&lines=Cyber+Security+Student+🔒;Specialized+in+Offensive+Security+and+Ethical+Hacking;Python+Developer+and+Security+Tool+Creator;Building+Malware+Classifiers+and+OSINT+Engines" alt="Cyber Profile" />
   </a>
-  <br /><br />
+<br /><br />
 </div>
 <br/>
   <br/>
